@@ -1,5 +1,5 @@
-import {leftdiv} from "./info.js"
-import { rightdiv } from "./img.js"
+import {leftdiv} from "./Activity1/info.js"
+import { rightdiv } from "./Activity1/img.js"
 const data ={
     title : "Dog Adoption",
     title2: "Are you interested?",

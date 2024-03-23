@@ -1,6 +1,6 @@
-import{upper} from "./info2.js"
-import{down,P1,b1,b2,b3} from "./card2.js"
-import{fp,sp,tp,frp} from "./img2.js"
+import{upper} from "./Activity2/info2.js"
+import{down,P1,b1,b2,b3} from "./Activity2/card2.js"
+import{fp,sp,tp,frp} from "./Activity2/img2.js"
 const one={
   Title: "Welcome to Wattpad",
   Paragraph: "Wattpad is a free social-storytelling app which enables users to connect with and read content by writers from around the world, as well as creating and sharing their own original stories. With over 90 million users, it is a popular platform with those who enjoy reading and writing, especially teens and young adults.",
